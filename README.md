@@ -8,3 +8,6 @@
 
 - Slides: [slides.com/linkstrifer/amd-commonjs-umd](http://slides.com/linkstrifer/amd-commonjs-umd)
 - Repo: [github.com/linkstrifer/amd-commonjs-umd](https://github.com/linkstrifer/amd-commonjs-umd)
+
+##JsDesignPattern
+- Slides (Part 1): [slides.com/luismiguelvillalbamazzey/deck](http://slides.com/luismiguelvillalbamazzey/deck#/)
