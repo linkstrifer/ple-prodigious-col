@@ -11,3 +11,6 @@
 
 ##JsDesignPattern
 - Slides (Part 1): [slides.com/luismiguelvillalbamazzey/deck](http://slides.com/luismiguelvillalbamazzey/deck#/)
+
+##SMACSS
+- Slides [slides.com/linkstrifer/smacss](https://slides.com/linkstrifer/smacss)
