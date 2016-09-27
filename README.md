@@ -2,7 +2,7 @@
 
 ##Javascript 101
 
-- Slides: [slides.com/thefricky/javascript-101-p1](http://slides.com/thefricky/javascript-101-p1)
+- Slides: [slides.com/cesarfrick/javascript-101-p1](http://slides.com/cesarfrick/javascript-101-p1)
 
 ##AMD/CommonJS/UMD
 
