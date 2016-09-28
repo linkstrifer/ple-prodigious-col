@@ -17,3 +17,12 @@
 
 ##BEM
 - Slides: [slides.com/linkstrifer/deck-5#/](http://slides.com/linkstrifer/deck-5#/)
+
+
+# es6
+
+##Promises
+- Slides: [slides.com/prodtechbogota/es6-symbols](http://slides.com/prodtechbogota/es6-symbols)
+- [exploringjs.com/es6/](http://exploringjs.com/es6/)
+- Polyfill: [github.com/stefanpenner/es6-promise](https://github.com/stefanpenner/es6-promise)
+
